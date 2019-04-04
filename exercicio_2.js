@@ -3,6 +3,4 @@ function dobro (array){
         return array * 2;
     });
 }
-
-
 //array.map(n => n *2 );
